@@ -175,7 +175,7 @@ const App: React.FC = () => {
     <div className="bg-gray-50 dark:bg-gray-900 min-h-screen font-sans">
       <header className="bg-white dark:bg-gray-800 shadow-sm p-4 text-center sticky top-0 z-10">
         <h1 className="text-xl md:text-2xl font-bold text-gray-800 dark:text-white">عرض وكيل الذكاء الاصطناعي</h1>
-        <p className="text-sm text-gray-500 dark:text-gray-400">مقدم من <span className="font-bold text-blue-600 dark:text-blue-400">حلول بوتلي</span></p>
+        <p className="text-sm text-gray-500 dark:text-gray-400">مقدم من <span className="font-bold text-blue-600 dark:text-blue-400">حلول بوت</span></p>
       </header>
       
       <main className="p-4 md:p-8">
@@ -213,7 +213,7 @@ const App: React.FC = () => {
       </main>
        <footer className="text-center p-4">
          <p className="text-xs text-gray-500 dark:text-gray-400">
-          Powered by <span className="font-bold text-blue-600 dark:text-blue-400">Botly Solutions | حلول بوتلي</span>
+          Powered by <span className="font-bold text-blue-600 dark:text-blue-400">Bot Solutions | حلول بوت</span>
         </p>
       </footer>
     </div>
